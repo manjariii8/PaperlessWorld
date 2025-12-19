@@ -1,0 +1,1 @@
+<h2>Admin Dashboard (DB Connected)</h2><a href='logout'>Logout</a>
