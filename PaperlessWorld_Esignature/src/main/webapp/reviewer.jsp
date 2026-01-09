@@ -19,6 +19,7 @@
 
 <h2>Reviewer Dashboard</h2>
 <p>Welcome, <%= user.getEmail() %></p>
+<p>Status: <span style="color:green;font-weight:bold;">Compliant</span></p>
 
 <h3>Review Signed Document</h3>
 
